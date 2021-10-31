@@ -9,11 +9,6 @@ Goals:
 - Phrase Search
 - Ranked IR based on TF-IDF
 
-Collection:
-
-- 5000 financial times articles from early 1990s
-- XML format
-
 Files:
 
 - trec.5000.xml : 5000 Financial Times articles in xml format
